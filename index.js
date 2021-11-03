@@ -1,3 +1,4 @@
+// new code
 const newArr = [];
 function writeCards(names, event) {
     for (let m = 0; m < names.length; m++) {
